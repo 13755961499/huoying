@@ -1,0 +1,60 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>登录</title>
+<link href="../style/jygz.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="dl">
+	 <div id="top">火影忍者</div>
+  <div id="menu">
+	<ul>
+	  <li><a href="index.html">主页</a></li>
+    </ul>
+	</div><!---menu end--->
+	<div id="dl1">
+	<div id="dl11">
+	  <h1>用户注册页面</h1>
+		  <hr/>
+		  <!---表单--->
+		  <form method="post" action="URL">
+			  <label>用户名：
+		  <input type="text" name="username">
+			  </label><br/>
+		   <label>密码 ：
+		  <input type="password" name="pwd">
+			  </label><br/>
+		   <label>确定 ： 
+		  <input type="password" name="pwd2">
+			  </label><br/>
+		   <label>姓名 ：
+		  <input type="text" name="name">
+			  </label><br/>
+		   <label>邮箱 ：
+		  <input type="email" name="email">
+		  </label>
+			 </form>
+	  <div id="dl3"><a href="cg.html">提交注册</a></div>
+<div id="dl2">
+	   <ul>
+		    <li><img src="img/qq.jpg" width="60" height="60" alt=""/></li>
+			 <li><img src="img/wx.jpg" width="60" height="60" alt=""/></li>
+			 <li><img src="img/wb.jpg" width="60" height="60" alt=""/></li>
+			  
+	      </ul>
+		
+		</div>
+   
+	</div>
+	
+	
+	
+	
+	</div>
+	 <div id="footer">火影忍者 网页设计</div>
+</div>
+</body>
+</html>

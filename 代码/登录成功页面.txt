@@ -1,0 +1,80 @@
+----html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>登录成功</title>
+<link href="../style/jygz.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="cg">
+  <div id="cg1">登录成功</div>
+  <div id="cg2"><a href="index.html">返回主页</a></div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+----css
+
+
+
+body,h2,h3,p,dl,dt,dd,ul,ol,li{
+	margin:0px;
+	padding:0px;
+}
+bady,td,th{
+	font-size:12px;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+a:hover{
+	text-decoration: underline;
+	color: #f00;
+}
+img{border:none;}
+
+ul,ol{list-style:none;}
+clear{clear:both;}body {
+}
+#cg {
+	width: 461px;
+	height: 300px;
+	background-color: #CC5954;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 169px;
+}
+#cg1 {
+	width: 451px;
+	height: 250px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 55px;
+	text-align: center;
+	line-height: 260px;
+}
+#cg2 {
+	width: 124px;
+	height: 40px;
+	color: #FFFFFF;
+	float: right;
+	font-size: 21px;
+	text-align: center;
+	line-height: 36px;
+}
+#cg2 a {
+	text-decoration: none;
+	display: block;
+	color: #FFFFFF;
+}

@@ -1,0 +1,52 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>角色介绍</title>
+<link href="../style/jygz.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="jsjs">
+  <div id="top">火影忍者&nbsp;</div>
+  <div id="menu">
+	<ul>
+	  <li><a href="index.html">主页</a></li>
+    </ul>
+  </div><!---menu end--->
+  <div id="jsjs1"><table width="895" border="1" align="left" cellpadding="4" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="201"><img src="img/R-C.jfif" width="201" height="300" alt=""/></td>
+      <td width="672">
+		 <h2>鸣人&nbsp; </h2>
+		  <h3>饰演 演技评分:9.3</h3>
+	      <P>在忍者学校是万年吊车尾的鸣人，终于得到伊鲁卡老师的认同而顺利毕业，并和同期毕业生佐助、小樱分配到同一小组。指导上忍卡卡西为了培育鸣人他们的团队合作精神而在生存训练中设下各种考验，最终判定他们合格，也使得鸣人他们学习到了团队合作的重要性。&nbsp;</P></td>
+    </tr>
+    <tr>
+      <td><img src="img/810a19d8bc3eb13533fa977b2655bfd3fd1f4034ee92.png" width="201" height="300" alt=""/></td>
+      <td> <h2>佐助&nbsp; </h2>
+		  <h3>饰演 演技评分:9.5</h3>
+		  <P>年幼时因目睹宇智波一族被哥哥宇智波鼬所歼灭，从而走上复仇之路。在终结之谷与漩涡鸣人展开激战，将鸣人打败后叛离木叶前去追随大蛇丸。三年后，佐助将大蛇丸吸收，并成功赢得了兄弟之战，但事后从带土口中得知了鼬的灭族真相，于是决定摧毁木叶。</P></td>
+    </tr>
+    <tr>
+      <td><img src="img/cb8065380cd7912397dd1da138604e82b2b7d1a22a93.png" width="201" height="300" alt=""/></td>
+      <td><h2>卡卡西&nbsp; </h2>
+		  <h3>饰演 演技评分:9.5</h3>
+		  <P>旗木卡卡西，日本漫画《火影忍者》及其衍生作品中的男性角色。火之国木叶隐村的精英上忍，原木叶暗部成员，第四代火影波风水门的弟子，第七班队长，漩涡鸣人、宇智波佐助、春野樱的老师。年仅12岁就成为上忍的天才忍者，后左眼移植宇智波带土的写轮眼，因使用写轮眼复制了上千种忍术而被称为“拷贝忍者”、“写轮眼卡卡西”，其名号响彻各国。
+。</P></td>
+    </tr>
+    <tr>
+      <td><img src="img/43a7d933c895d143ad4b4a3544a695025aafa40fa9d5.png" width="201" height="300" alt=""/></td>
+      <td><h2>春野樱&nbsp; </h2>
+		  <h3>饰演 演技评分:9.0</h3>
+		  <P>春野樱，日本漫画《火影忍者》及其衍生作品中的女主角。新一代医疗忍者，第五代火影纲手的弟子，与漩涡鸣人、宇智波佐助隶属于旗木卡卡西领导的第七班。春野樱拜第五代火影纲手为师，学会了纲手开发的百豪之术以及召唤蛞蝓的能力。</P></td>
+    </tr>
+</tbody>
+</table>
+</div>
+  <div id="footer">火影忍者&nbsp; 网页设计</div>
+</div><!--jsjs end--->
+</body>
+</html>

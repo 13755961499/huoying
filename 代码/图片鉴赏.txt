@@ -1,0 +1,39 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>精彩片段</title>
+<link href="../style/jygz.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="jcpd">
+  <div id="top">火影忍者</div>
+  <div id="menu">
+	<ul>
+	  <li><a href="index.html">主页</a></li>
+    </ul>
+  </div><!---menu end--->
+	<div id="jcpd1">
+	  <ul>
+	    <li><img src="img/015fe65cc06c2aa801208f8b587c3a.png@1280w_1l_2o_100sh.png" width="265" height="180" alt=""/><img src="img/4.jpg" width="265" height="180" alt=""/> <img src="img/ChMkJ1fJVieIXioqACJAJZZ8ZqUAAU98QAm5O0AIkA9233.jpg" width="265" height="180" alt=""/></li>
+		 <li><img src="img/01400f5ebc1007a801214814f53b15.jpg@1280w_1l_2o_100sh.jpg" width="265" height="180" alt=""/><img src="img/v2-ae55e8bbf89ef4f2fa2b0d1cc6d5f88c_r.jpg" width="265" height="180" alt=""/><img src="img/01569c5cc06c04a8012141684a122d.png@1280w_1l_2o_100sh.png" width="265" height="180" alt=""/></li>
+		  
+      </ul>
+    </div>
+  <div id="jcpd2">
+	<ul>
+	    <li><img src="img/R-C (5).jfif" width="265" height="180" alt=""/><img src="img/R-C (2).jfif" width="265" height="180" alt=""/><img src="img/OIP-C (2).jfif" width="265" height="180" alt=""/></li>
+		 <li><img src="img/R-C (6).jfif" width="265" height="180" alt=""/><img src="img/R-C (3).jfif" width="265" height="180" alt=""/> <img src="img/R-C (4).jfif" width="265" height="180" alt=""/></li>
+		  
+    </ul>
+	
+  </div>
+  <div id="jcpd3">
+	
+	</div>
+  <div id="footer">火影忍者 网页设计</div>
+</div>
+</body>
+</html>
