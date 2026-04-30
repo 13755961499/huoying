@@ -17,7 +17,6 @@
 - 为所有 HTML 页面添加了 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`，解决了 Microsoft Edge Tools 的警告，确保页面在不同设备上的缩放正常。
 
 ### 2. 注册功能完善
-- **表单升级**: 在 [gzp4.html](page/gzp4.html) 中增加了“性别”单选框和“所属村落”下拉选择框（包括木叶村、砂隐村等）。
 - **交互提升**: 添加了注册成功后的弹窗提示。
 
 ### 3. 视觉体验升级
